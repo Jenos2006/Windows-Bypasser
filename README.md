@@ -2,7 +2,7 @@ Credits: massgrave.dev
 
 # How to use is it?
 
-    ## Step 1: Copy the Script
+    **Step 1: Copy the Script**
 
     Highlight the entire script you want to run (e.g., main).
     Right-click on the highlighted text and select Copy (or press Ctrl + C on your keyboard).
