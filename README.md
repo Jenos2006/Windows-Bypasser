@@ -6,6 +6,7 @@ Credits: massgrave.dev
 
     Highlight the entire script you want to run (e.g., main).
     Right-click on the highlighted text and select Copy (or press Ctrl + C on your keyboard).
+    
 
     Step 2: Open PowerShell as Administrator
 
@@ -14,12 +15,14 @@ Credits: massgrave.dev
     - In the search results, locate Windows PowerShell.
     - Right-click on "Windows PowerShell" and choose Run as administrator from the dropdown menu.
     - If a User Account Control (UAC) prompt appears, click Yes to allow administrative permissions.
+    
 
     Step 3: Paste and Run the Script
 
     - In the PowerShell window, move your mouse to the top of the PowerShell window (the title bar).
     - Right-click on the title bar and select Edit, then click Paste to insert the script.
     - After pasting the script, press Enter to execute it.
+    
 
     Troubleshooting
 
